@@ -44,6 +44,7 @@
 ## <img src="assets/Work.svg" width="30px"> Internship & Entrepreneurship
 
 - Co-founder and Developer, Yugan BBS community 2016.6~2017
+
   Yugan BBS  is a small online community created by me and my friends. It positioned for user-created content and sharing, users are encouraged to engage in in-depth and rational debate and analysis on topics. This project was created in 2016 and disbanded in late 2017.
 
 - Microsoft Research Asia,  2021.03 ~ 2021.06
@@ -120,7 +121,6 @@
 ## <img src="assets/book.svg" width="30px"> Publications & Patents
 
 - Submitted
-
   - CHENGUANG L, DI Z, BO Z, et al. Curriculum learning strategies based on service-oriented places such as electric power supply offices[J]. Computer Applications and Software, 2021.
   - CHENGUANG L, XIAOPIN C, DI Z,  et al. Sentiment analysis dataset for dialogue systems in power business[J]. Journal of Computer Applications, 2021.
   - DI Z. A system of target selection model and actively interaction method for human-robot interaction[P]. 2021
