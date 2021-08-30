@@ -79,6 +79,7 @@
     Participated in the design for the front-end interaction module of the robot, allowing the robot to interact with visitors to the site more naturally and intimately, including tour guidance, proactively seek out visitors to initiate interactions, and answer displays etc.
     
 - **Smart Farm Agricultural Robot**, Funded by Anhui Province
+
     Participated in the robotic positioning and navigation module development , integration of sensing and gripping systems.
 	
 - **A novel robot action planning algorithm based on sequence prediction and reinforcement learning**
@@ -117,10 +118,11 @@
 - Ability to quickly reproduce and master new technologies and algorithms such as Transformer and graph neural networks in the industry
 
 ## <img src="assets/book.svg" width="30px"> Publications & Patents
+
 - Submitted
+
   - CHENGUANG L, DI Z, BO Z, et al. Curriculum learning strategies based on service-oriented places such as electric power supply offices[J]. Computer Applications and Software, 2021.
   - CHENGUANG L, XIAOPIN C, DI Z,  et al. Sentiment analysis dataset for dialogue systems in power business[J]. Journal of Computer Applications, 2021.
   - DI Z. A system of target selection model and actively interaction method for human-robot interaction[P]. 2021
 
 
-​    
