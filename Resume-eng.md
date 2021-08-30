@@ -2,32 +2,33 @@
      <h1>Zhang Di</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             +8618856335120
+             <img src="assets/phone-solid.svg" width="20px">
+             <a href="tel:+8618856335120">+8618856335120</a>
          </span>
-         ·
+         |
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             trotsky@mail.ustc.edu.cn
+             <img src="assets/envelope-solid.svg" width="20px">
+             <a href="mailto:trotsky@mail.ustc.edu.cn">trotsky@mail.ustc.edu.cn</a>
          </span>
-         ·
+         |
          <span>
-             <img src="assets/github-brands.svg" width="18px">
+             <img src="assets/github-brands.svg" width="20px">
              <a href="https://github.com/trotsky1997">trotsky1997</a>
          </span>
-         ·
+         |
          <span>
-             <img src="assets/rss-solid.svg" width="18px">
+             <img src="assets/rss-solid.svg" width="20px">
              <a href="https://blog.csdn.net/weixin_44350982">My Blog</a>
          </span>
-         ·
+         |
          <span>
-             <img src="assets/iconmonstr-wechat-1.svg" width="18px">
-             <a href="#">ustczd1997</a>
+             <img src="assets/iconmonstr-wechat-1.svg" width="20px">
+             <a href="https://github.com/trotsky1997/trotsky1997/raw/main/WechatIMG29.jpeg">ustczd1997</a>
          </span>
      </div>
  </center>
- 
+
+
 ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information
 
  - Postgraduate student,Robotics Laboratory, USTC, b. 1998
@@ -45,7 +46,7 @@
 
 - Co-founder and Developer, Yugan BBS community 2016.6~2017
 
-  Yugan BBS  is a small online community created by me and my friends. It positioned for user-created content and sharing, users are encouraged to engage in in-depth and rational debate and analysis on topics. This project was created in 2016 and disbanded in late 2017.
+  Yugan BBS  is a small online community created by me and my friends. It positioned for user-created content and sharing, users are encouraged to engage in in-depth and rational debate and analysis on topics. It disbanded in late 2017.
 
 - Microsoft Research Asia,  2021.03 ~ 2021.06
 
@@ -81,11 +82,11 @@
     
 - **Smart Farm Agricultural Robot**, Funded by Anhui Province
 
-    Participated in the robotic positioning and navigation module development , integration of sensing and gripping systems.
+    I participated in the development of robotic positioning and navigation over GPS, and part of integration of sensing and gripping systems.
 	
 - **A novel robot action planning algorithm based on sequence prediction and reinforcement learning**
 
-    Through processing of robot action history sequences by an attention-based neural network and combined with traditional deep reinforcement learning methods, We implemented a new robot action planning algorithm. 
+    Through processing of robot action history sequences by an attention-based neural network and combined with traditional deep reinforcement learning methods, We implemented a new robot action planning algorithm.I was responsible for the part of research on attention-based action sequence segmentation and prediction models. 
     
 - **AI-Earth 2021 El Nino-Southern Oscillation Indicator Prediction Contest**,Top 10%
 
@@ -114,7 +115,7 @@
 
 - Proficiency in Pytorch, Tensorflow/Keras, Flask and other mainstream technical frameworks
 
-- Skilled in collecting information,literature management, and tracking the industry's cutting-edge development
+- Skilled in collecting information,literature management through Zotero or Endnote, and tracking the industry's cutting-edge development by mainstream scholarship toolchains
 
 - Ability to quickly reproduce and master new technologies and algorithms such as Transformer and graph neural networks in the industry
 
@@ -124,5 +125,4 @@
   - CHENGUANG L, DI Z, BO Z, et al. Curriculum learning strategies based on service-oriented places such as electric power supply offices[J]. Computer Applications and Software, 2021.
   - CHENGUANG L, XIAOPIN C, DI Z,  et al. Sentiment analysis dataset for dialogue systems in power business[J]. Journal of Computer Applications, 2021.
   - DI Z. A system of target selection model and actively interaction method for human-robot interaction[P]. 2021
-
 
