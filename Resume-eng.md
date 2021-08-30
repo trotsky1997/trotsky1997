@@ -33,9 +33,9 @@
 
  - Postgraduate student,Robotics Laboratory, USTC, b. 1998
 
- - Past main research interests : Machine Learning,Human-Robot Interaction
+ - Past main research interests : Machine Learning, Human-Robot Interaction
 
- - Interested in: Improving human-machine interaction through natural language processing and other machine learning algorithms.Make technology development benefit more people.
+ - Interested in: Improving human-machine interaction through natural language processing and other machine learning algorithms. Make technology development benefit more people.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education Experience
 
