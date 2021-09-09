@@ -3,12 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="20px">
-             <a href="tel:+8618856335120">+8618856335120</a>
+             Tel <a href="tel:+8618856335120">+8618856335120</a>
          </span>
          |
          <span>
              <img src="assets/envelope-solid.svg" width="20px">
-             <a href="mailto:trotsky@mail.ustc.edu.cn">trotsky@mail.ustc.edu.cn</a>
+             Email <a href="mailto:trotsky@mail.ustc.edu.cn">trotsky@mail.ustc.edu.cn</a>
          </span>
          |
          <span>
@@ -28,7 +28,6 @@
      </div>
  </center>
 
-
 ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information
 
  - Postgraduate student,Robotics Laboratory, USTC, b. 1998
@@ -42,17 +41,17 @@
 - Master, University of Science and Technology of China, Computer Science and Technology, 2019.9~
 - B.S., Hefei University of Technology, Municipal Engineering, 2015.9~2019.7
 
-## <img src="assets/Work.svg" width="30px"> Internship & Entrepreneurship
+## <img src="assets/Work.svg" width="30px"> Internship & Works
 
-- Co-founder and Developer, Yugan BBS community 2016.6~2017
+- Intern algorithm engineer, Institute of Advanced Technology, University of Science and Technology of China, 2019.9 ~ 2021.1
 
-  Yugan BBS  is a small online community created by me and my friends. It positioned for user-created content and sharing, users are encouraged to engage in in-depth and rational debate and analysis on topics. It disbanded in late 2017.
+  Participated in the development of software and hardware systems for several robotics projects
 
-- Microsoft Research Asia,  2021.03 ~ 2021.06
+- Research internship,Microsoft Research Asia,  2021.03 ~ 2021.06
 
   Participated in the *Talking face with upper body gestures* project of Microsoft Research Asia and Multimedia Laboratory (MMLab) of the Chinese University of Hong Kong, and was responsible for survey of past researches and earlier data collection.
 
-- Ant Group (Alibaba Group),2021.06 ~ 2021.07
+- Intern Machine Learning engineer, Ant Group (Alibaba Group),  2021.06 ~ 2021.07
 
   Internship in the Computational Intelligence department, CTO line, Ant Group. I participated in the development of Ray core, a distributed computing platform, and PyMars, a distributed scientific computing machine learning platform. I was responsible for the survey of existing distributed LightGBM projects and participated in the development of PyMars LightGBM interface, and also the Failover mechanism of Ray Core.
 
@@ -123,6 +122,9 @@
 
 - Submitted
   - CHENGUANG L, DI Z, BO Z, et al. Curriculum learning strategies based on service-oriented places such as electric power supply offices[J]. Computer Applications and Software, 2021.
-  - CHENGUANG L, XIAOPIN C, DI Z,  et al. Sentiment analysis dataset for dialogue systems in power business[J]. Journal of Computer Applications, 2021.
+  - CHENGUANG L, DI Z, BO Z, et al. Text empathy prediction based on transfer learning[J].  Journal of Chinese Computer Systems, 2021.
+  - CHENGUANG L, DI Z, XIAOPIN C  et al. Sentiment analysis dataset for dialogue systems in power business[J]. Journal of Computer Applications, 2021.
   - DI Z. A system of target selection model and actively interaction method for human-robot interaction[P]. 2021
+- Preprint
+  - DI Z. Juvenile state hypothesis: What we can learn from lottery ticket hypothesis researches?[arXiv]. 2021
 
