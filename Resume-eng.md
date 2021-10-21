@@ -54,6 +54,8 @@
 - Intern Machine Learning engineer, Ant Group (Alibaba Group),  2021.06 ~ 2021.07
 
   Internship in the Computational Intelligence department, CTO line, Ant Group. I participated in the development of Ray core, a distributed computing platform, and PyMars, a distributed scientific computing machine learning platform. I was responsible for the survey of existing distributed LightGBM projects and participated in the development of PyMars LightGBM interface, and also the Failover mechanism of Ray Core.
+  
+- Intership Student,MIT HAN Lab,2021.09 ~
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project Experience
 
