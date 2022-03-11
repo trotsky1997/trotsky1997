@@ -57,6 +57,8 @@
   
 - Intership Student,MIT HAN Lab,2021.09 ~
 
+  Studied TinyML and mobile deep learning with Prof. Han Song, and was responsible for quantifying and deploying deep learning models on Qualcomm Snapdragon and Raspberry Pi platforms in the LitePose project.
+
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project Experience
 
 - **USTC Campus Invitational Algorithm Competition**, Champion
