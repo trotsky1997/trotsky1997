@@ -83,14 +83,6 @@
 
     Participated in the design for the front-end interaction module of the robot, allowing the robot to interact with visitors to the site more naturally and intimately, including tour guidance, proactively seek out visitors to initiate interactions, and answer displays etc.
     
-- **Smart Farm Agricultural Robot**, Funded by Anhui Province
-
-    I participated in the development of robotic positioning and navigation over GPS, and part of integration of sensing and gripping systems.
-	
-- **A novel robot action planning algorithm based on sequence prediction and reinforcement learning**
-
-    Through processing of robot action history sequences by an attention-based neural network and combined with traditional deep reinforcement learning methods, We implemented a new robot action planning algorithm.I was responsible for the part of research on attention-based action sequence segmentation and prediction models. 
-    
 - **AI-Earth 2021 El Nino-Southern Oscillation Indicator Prediction Contest**,Top 10%
 
     This competition gives global weather data for the past years and asks for predicting the ENSO index in the coming year. After constructing higher-order interaction features, we extract the representation vectors of the weather maps through an attention-based convolutional neural network, finally the future ENSO index is predicted by a time-series Seq2Seq approach.
