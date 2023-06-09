@@ -1,4 +1,5 @@
 # Zhang Di - USTC
+Hello this is Zhang Di, An AI devloper at Alibaba.Inc, and an Incoming PhD students of Fudan Univ.
 
 [中文简历](https://trotsky1997.github.io/trotsky1997/Resume.html) |[Resume](https://trotsky1997.github.io/trotsky1997/Resume-eng.html)
 
