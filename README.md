@@ -5,6 +5,4 @@ Former Full-time ML developer of Alibaba .Inc
 
 Former M.Eng of USTC Robotics Lab and Internship at Ant Group, MIT Han Lab.
 
-[中文简历](https://trotsky1997.github.io/trotsky1997/Resume.html) |[Resume](https://trotsky1997.github.io/trotsky1997/Resume-eng.html)
-
-[中文PDF](https://trotsky1997.github.io/trotsky1997/Resume.pdf) |[Resume in PDF](https://trotsky1997.github.io/trotsky1997/Resume-eng.pdf)
+[CV](https://trotsky1997.github.io/trotsky1997/FDU-ZhangDi-CV.pdf)
