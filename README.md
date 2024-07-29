@@ -5,4 +5,4 @@ Former Full-time ML developer of Alibaba .Inc
 
 Former M.Eng of USTC Robotics Lab and Internship at Ant Group, MIT Han Lab.
 
-[CV](https://trotsky1997.github.io/trotsky1997/FDU-ZhangDi-CV.pdf)
+[CV](https://raw.githubusercontent.com/trotsky1997/trotsky1997/main/FDU-ZhangDi-CV.pdf)
