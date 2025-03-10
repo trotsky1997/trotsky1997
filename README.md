@@ -1,6 +1,8 @@
 # Zhang Di - ShangHai AI Lab
 Hello this is Zhang Di, An AI devloper at ShangHai AI Lab, and PhD students of Fudan Univ.(2023~)
 
+Incoming internship at NVIDIA (2025~)
+
 Former Full-time ML developer of Alibaba .Inc (2022~2023)
 
 Former M.Eng of USTC Robotics Lab and Internship at Ant Group(2021), MIT Han Lab(2022).
