@@ -5,6 +5,6 @@ Incoming internship at NVIDIA (2025~)
 
 Former Full-time ML developer of Alibaba .Inc (2022~2023)
 
-Former M.Eng of USTC Robotics Lab and Internship at Ant Group(2021), MIT Han Lab(2022).
+Former M.Eng of USTC Robotics Lab(2019~2022) and Internship at Ant Group(2021), MIT Han Lab(2022).
 
 [CV](https://raw.githubusercontent.com/trotsky1997/trotsky1997/main/FDU-ZhangDi-CV.pdf)
