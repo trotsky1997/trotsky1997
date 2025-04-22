@@ -1,5 +1,5 @@
 # Zhang Di - Fudan University
-Hello this is Zhang Di, PhD students of Fudan Univ.(2023~)
+Hello this is Zhang Di, PhD Candidate of Fudan Univ.(2023~)
 
 Internship at NVIDIA (2025~)
 
