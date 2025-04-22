@@ -1,7 +1,7 @@
 # Zhang Di - Fudan University
 Hello this is Zhang Di, PhD students of Fudan Univ.(2023~)
 
-Incoming internship at NVIDIA (2025~)
+Internship at NVIDIA (2025~)
 
 Former Internship at Shanghai AI Lab (2023~2025)
 
