@@ -7,7 +7,7 @@ Former Internship at Shanghai AI Lab (2023~2025)
 
 Former Full-time ML developer of Alibaba .Inc (2022~2023)
 
-Former Master of Engineering of USTC Robotics Lab(2019~2022) and Internship at Ant Group(2021), MIT Han Lab(2021~2022).
+Former Master of Engineering of USTC Robotics Lab(2019 ~ 2022) and Internship at Ant Group(2021), MIT Han Lab(2021~2022).
 
 [CV](https://raw.githubusercontent.com/trotsky1997/trotsky1997/main/FDU-ZhangDi-CV.pdf)
 
