@@ -19,6 +19,6 @@ Former Master of Engineering of USTC Robotics Lab(2019 ~ 2022) and Internship at
 
 🤗 [HuggingFace](https://huggingface.co/di-zhang-fdu)
 
-🐦 [X/Twitter](https://x.com/egr1841613)
+🐦 [X/Twitter](https://x.com/di_zhang_fdu)
 
 Ⓜ️ [Medium Blog](https://di-zhang-fdu.medium.com)
