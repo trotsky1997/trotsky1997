@@ -11,7 +11,7 @@ Former Master of Engineering of USTC Robotics Lab(2019 ~ 2022) and Internship at
 
 **Links**
 
-📄 [CV](https://raw.githubusercontent.com/trotsky1997/trotsky1997/main/FDU-ZhangDi-CV.pdf)
+📄 [CV](https://raw.githubusercontent.com/trotsky1997/trotsky1997/main/FDU-ZhangDi-CV-2026.pdf)
 
 📧 [Email](mailto:di.zhang@ustc.edu)
 
