@@ -1,5 +1,5 @@
 # Zhang Di - Fudan University
-Hello this is Zhang, Di, PhD Candidate of Fudan Univ.(2023~)
+Hello this is Zhang, Di, PhD Candidate of Fudan Univ.(2023~), author of ChemLLM, ChemVLM, MCTSr, LLama-Berry, Critic-V, Chem-R, Nemotron-VL
 
 Former Internship at NVIDIA Research (2025~2026)
 
